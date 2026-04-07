@@ -38,7 +38,7 @@ On partage nos avancées, notre vision et les coulisses du projet sur tous nos r
 |---|---|
 | 🌐 Site web | [switchs.dev](https://switchs.dev) |
 | � Twitter / X | [@switchs_dev](https://twitter.com/switchs_dev) |
-| � LinkedIn | [Switch](https://linkedin.com/company/switchs-dev) |
+| � LinkedIn | [Switchs](https://linkedin.com/company/switchs-dev) |
 | 📸 Instagram | [@switchs.dev](https://instagram.com/switchs.dev) |
 | 🎵 TikTok | [@switchs.dev](https://tiktok.com/@switchs.dev) |
 
