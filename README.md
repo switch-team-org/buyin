@@ -7,7 +7,7 @@
   <br />
 
   ![Status](https://img.shields.io/badge/statut-en%20construction-orange?style=for-the-badge)
-  ![Made by Switch](https://img.shields.io/badge/by-Switch-black?style=for-the-badge)
+  ![Made by Switchs](https://img.shields.io/badge/by-Switch-black?style=for-the-badge)
 
   <br />
 </div>
@@ -64,6 +64,6 @@ Si tu es développeur frontend, backend, mobile ou IA — on veut te parler.
 
 <div align="center">
   <br />
-  <sub>© 2025 BUYIN.CC — Construit par l'équipe <strong>Switch</strong></sub>
+  <sub>© 2025 BUYIN.CC — Construit par l'équipe <strong>Switchs</strong></sub>
   <br /><br />
 </div>
