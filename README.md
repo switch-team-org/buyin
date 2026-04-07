@@ -7,7 +7,7 @@
   <br />
 
   ![Status](https://img.shields.io/badge/statut-en%20construction-orange?style=for-the-badge)
-  ![Made by Switchs](https://img.shields.io/badge/by-Switch-black?style=for-the-badge)
+  ![Made by Switchs](https://img.shields.io/badge/by-Switchs-black?style=for-the-badge)
 
   <br />
 </div>
