@@ -6,8 +6,10 @@
   <p>Acheteurs et vendeurs. Un seul endroit. Une expérience fluide.</p>
   <br />
 
+  <img src="https://pub-7fc8e6751593453fb1b6aa998865ab95.r2.dev/public-img-repo/img-buyin.jpeg" alt="Aperçu du site BUYIN.CC" width="800" />
+
   ![Status](https://img.shields.io/badge/statut-en%20construction-orange?style=for-the-badge)
-  ![Made by Switchs](https://img.shields.io/badge/by-Switchs-black?style=for-the-badge)
+  ![Made by Switch](https://img.shields.io/badge/by-Switch-black?style=for-the-badge)
 
   <br />
 </div>
@@ -38,7 +40,7 @@ On partage nos avancées, notre vision et les coulisses du projet sur tous nos r
 |---|---|
 | 🌐 Site web | [switchs.dev](https://switchs.dev) |
 | � Twitter / X | [@switchs_dev](https://twitter.com/switchs_dev) |
-| � LinkedIn | [Switchs](https://linkedin.com/company/switchs-dev) |
+| � LinkedIn | [Switch](https://linkedin.com/company/switchs-dev) |
 | 📸 Instagram | [@switchs.dev](https://instagram.com/switchs.dev) |
 | 🎵 TikTok | [@switchs.dev](https://tiktok.com/@switchs.dev) |
 
@@ -64,6 +66,6 @@ Si tu es développeur frontend, backend, mobile ou IA — on veut te parler.
 
 <div align="center">
   <br />
-  <sub>© 2025 BUYIN.CC — Construit par l'équipe <strong>Switchs</strong></sub>
+  <sub>© 2025 BUYIN.CC — Construit par l'équipe <strong>Switch</strong></sub>
   <br /><br />
 </div>
